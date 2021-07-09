@@ -87,7 +87,7 @@ background-image: url("./BackGround.jpg");
 .todo-button:hover{
      transform: scale(1.1); 
 }
-@media only screen and (max-width:500px){
+@media only screen and (max-width:620){
      .todo-input, .todo, .todo-button, .delete-task, .todo-button, .todo-item, .todo-list{
       width: 100%;
     }
