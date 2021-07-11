@@ -90,5 +90,6 @@ background-image: url("./BackGround.jpg");
 @media only screen and (max-width:620){
      .todo-input, .todo, .todo-button, .delete-task, .todo-button, .todo-item, .todo-list{
       width: 100%;
+      height: 100%;
     }
 }
